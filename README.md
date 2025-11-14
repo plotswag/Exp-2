@@ -21,8 +21,10 @@ Set non-functional needs: reliability, security, and easy interface.
 Draw UML diagrams: Use Case, Class, Activity, Sequence, and Package diagrams.      
 Design database tables for Books, Members, Transactions, and Staff.      
 
-
+# BY: JEEVANESH S
+# REG : 212222243002
 # UML DIAGRAMS:
+
 
 ## USECASE DIAGRAM:
 
